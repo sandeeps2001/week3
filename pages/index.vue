@@ -1,10 +1,13 @@
 
 import Navbar from '~~/components/navbar.vue';
-
+<script setup>
+useHead({
+    title : "cartrader"
+})
+</script>
 <template>
-    <div>
-<Navbar />
+<div>
 <CarHero />
-    </div>
-  </template>
+</div>
+</template>
   

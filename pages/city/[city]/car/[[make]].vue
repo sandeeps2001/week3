@@ -1,7 +1,5 @@
 <template>
-    <div>
-        its a dynamic page
-    </div>
+  <div>
+  <CarCard />
+  </div>
 </template>
-
-/city/huston/car
